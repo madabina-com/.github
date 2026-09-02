@@ -15,6 +15,7 @@ Official kit for using the Madabina brand. Source: `web-app/docs/11-BRAND-IDENTI
 | `logo/logo-madabina.png` | ![logo](../brand/logo/logo-madabina.png) | Light background (website, docs, slides) |
 | `logo/logo-madabina-white.png` | White on dark background | Dark header, footer |
 | `logo/icon-madabina-circle.png` | Circular icon | Favicon, GitHub avatar, app icon |
+| `sonor/Song Madabina.mp3` | Idenity sonor : Song Madabina |
 
 > Recommended formats to add next: `logo-madabina.svg` (vector), `logo@2x.png`, `favicon.ico`, `og-image.png` (1200x630).
 
