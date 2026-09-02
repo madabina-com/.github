@@ -10,7 +10,7 @@ Madabina is building a modern commerce platform for **Cash on Delivery e-commerc
 - **Merchant Panel:** https://madabina.com/merchant
 - **GitHub Organization:** https://github.com/madabina-com
 - **Organization Repository:** https://github.com/madabina-com/.github
-- **Profile:** https://github.com/madabina-com/.github/profile/README.md
+- **Profile:** https://github.com/madabina-com/.github/tree/main/profile
 - **Repositories:** https://github.com/orgs/madabina-com/repositories
 - **Contact:** contact@madabina.com
 
