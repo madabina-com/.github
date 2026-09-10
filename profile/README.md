@@ -130,10 +130,6 @@ Madabina is built around the realities of e-commerce in Algeria: mobile-first st
 - [Open the merchant panel](https://madabina.com/merchant/login)
 - [View the demo store](https://madabina.com/boutiques/madabina-demo)
 
-### Madabina video
-
-[![Watch the Madabina presentation video](https://img.youtube.com/vi/kVAPfMQNFvY/hqdefault.jpg)](https://www.youtube.com/shorts/kVAPfMQNFvY)
-
 Discover Madabina: COD e-commerce infrastructure for Algerian brands and online sellers.
 
 ---
@@ -178,10 +174,6 @@ Discover Madabina: COD e-commerce infrastructure for Algerian brands and online 
 - [إنشاء متجر](https://madabina.com/merchant/register)
 - [فتح لوحة التاجر](https://madabina.com/merchant/login)
 - [مشاهدة المتجر التجريبي](https://madabina.com/boutiques/madabina-demo)
-
-### فيديو مدابينا
-
-[![مشاهدة فيديو تقديم مدابينا](https://img.youtube.com/vi/kVAPfMQNFvY/hqdefault.jpg)](https://www.youtube.com/shorts/kVAPfMQNFvY)
 
 اكتشف مدابينا، منصة التجارة الإلكترونية بنظام الدفع عند الاستلام للعلامات التجارية والبائعين في الجزائر.
 
