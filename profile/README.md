@@ -16,6 +16,16 @@
   <a href="mailto:contact@madabina.com">Contact</a>
 </p>
 
+<p align="center">
+  <a href="https://wa.me/213550668705">WhatsApp</a> ·
+  <a href="https://facebook.com/madabina">Facebook</a> ·
+  <a href="https://instagram.com/madabina">Instagram</a> ·
+  <a href="https://tiktok.com/@madabina">TikTok</a> ·
+  <a href="https://linkedin.com/company/madabina">LinkedIn</a> ·
+  <a href="https://youtube.com/@madabina">YouTube</a> ·
+  <a href="https://github.com/madabina-com">GitHub</a>
+</p>
+
 ---
 
 ## Français
@@ -71,6 +81,12 @@ Madabina est conçue pour le contexte du commerce en ligne en Algérie : mobile-
 - [Ouvrir le panel marchand](https://madabina.com/merchant/login)
 - [Voir la boutique de démonstration](https://madabina.com/boutiques/madabina-demo)
 
+### Vidéo Madabina
+
+[![Regarder la vidéo de présentation Madabina](https://img.youtube.com/vi/kVAPfMQNFvY/hqdefault.jpg)](https://www.youtube.com/shorts/kVAPfMQNFvY)
+
+Découvrez Madabina en vidéo : une plateforme e-commerce COD conçue pour les marques et vendeurs algériens.
+
 ---
 
 ## English
@@ -114,6 +130,12 @@ Madabina is built around the realities of e-commerce in Algeria: mobile-first st
 - [Open the merchant panel](https://madabina.com/merchant/login)
 - [View the demo store](https://madabina.com/boutiques/madabina-demo)
 
+### Madabina video
+
+[![Watch the Madabina presentation video](https://img.youtube.com/vi/kVAPfMQNFvY/hqdefault.jpg)](https://www.youtube.com/shorts/kVAPfMQNFvY)
+
+Discover Madabina: COD e-commerce infrastructure for Algerian brands and online sellers.
+
 ---
 
 ## العربية
@@ -156,6 +178,26 @@ Madabina is built around the realities of e-commerce in Algeria: mobile-first st
 - [إنشاء متجر](https://madabina.com/merchant/register)
 - [فتح لوحة التاجر](https://madabina.com/merchant/login)
 - [مشاهدة المتجر التجريبي](https://madabina.com/boutiques/madabina-demo)
+
+### فيديو مدابينا
+
+[![مشاهدة فيديو تقديم مدابينا](https://img.youtube.com/vi/kVAPfMQNFvY/hqdefault.jpg)](https://www.youtube.com/shorts/kVAPfMQNFvY)
+
+اكتشف مدابينا، منصة التجارة الإلكترونية بنظام الدفع عند الاستلام للعلامات التجارية والبائعين في الجزائر.
+
+---
+
+## Réseaux sociaux · Social links · روابط التواصل
+
+| Réseau / Network / الشبكة | Lien |
+| --- | --- |
+| WhatsApp | [wa.me/213550668705](https://wa.me/213550668705) |
+| Facebook | [facebook.com/madabina](https://facebook.com/madabina) |
+| Instagram | [instagram.com/madabina](https://instagram.com/madabina) |
+| TikTok | [tiktok.com/@madabina](https://tiktok.com/@madabina) |
+| LinkedIn | [linkedin.com/company/madabina](https://linkedin.com/company/madabina) |
+| YouTube | [youtube.com/@madabina](https://youtube.com/@madabina) |
+| GitHub | [github.com/madabina-com](https://github.com/madabina-com) |
 
 ---
 
