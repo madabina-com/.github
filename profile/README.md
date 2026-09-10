@@ -1,287 +1,169 @@
 # Madabina
 
 <p align="center">
-  <strong>Build, launch, and grow professional Cash on Delivery stores in Algeria.</strong>
+  <strong>Plateforme e-commerce pour les e-commerçants algériens · COD · Boutiques en ligne · Gestion multi-boutiques</strong>
 </p>
 
 <p align="center">
-  <a href="https://madabina.com">Website</a>
-  �
-  <a href="https://madabina.com/merchant">Merchant Panel</a>
-  �
+  <a href="#français">Français</a> ·
+  <a href="#english">English</a> ·
+  <a href="#العربية">العربية</a>
+</p>
+
+<p align="center">
+  <a href="https://madabina.com">Site officiel</a> ·
+  <a href="https://madabina.com/merchant">Panel marchand</a> ·
   <a href="mailto:contact@madabina.com">Contact</a>
 </p>
 
 ---
 
-## About Madabina
+## Français
 
-**Madabina** is an e-commerce SaaS platform built for brand owners, entrepreneurs, and Cash on Delivery merchants in Algeria.
+### Madabina : la plateforme e-commerce pensée pour les e-commerçants algériens
 
-Our goal is simple: help sellers move from a product idea, social media page, or winning offer to a professional online store that is clear, credible, easy to share, and ready to receive orders.
+Madabina aide les propriétaires de marques, entrepreneurs e-commerce et vendeurs en **paiement à la livraison (COD)** à passer d’une page sociale ou d’un produit à une boutique en ligne professionnelle, rapide à partager et conçue pour rassurer le client avant la confirmation téléphonique.
 
-Madabina is designed for merchants who want to launch quickly without having to manage hosting, complex technical configuration, or a custom e-commerce stack.
+Avec Madabina, un marchand peut :
 
-> From product to professional COD storefront � without unnecessary technical complexity.
+- créer une boutique publique avec une adresse claire et partageable ;
+- présenter ses produits et ses offres sur des pages de vente lisibles ;
+- recevoir des commandes COD avec le nom, le téléphone, la wilaya, la commune et l’adresse du client ;
+- suivre les demandes et les statuts depuis le panel marchand ;
+- gérer plusieurs boutiques pour séparer ses marques, niches et campagnes ;
+- vendre dans un parcours multilingue en français, anglais et arabe.
 
-## What We Build
+Madabina est conçue pour le contexte du commerce en ligne en Algérie : mobile-first, orientée COD et accessible sans configuration technique lourde.
 
-Madabina provides the infrastructure and tools needed to operate modern COD brands.
+### Pourquoi Madabina ?
 
-### Professional Storefronts
+**Plus de clarté.** Chaque offre dispose d’une vitrine propre avec sa promesse, ses bénéfices, son prix et son appel à l’action.
 
-Create dedicated storefronts for brands, niches, campaigns, and product offers.
+**Plus de confiance.** Les pages publiques, les informations produit et le formulaire de commande sont organisés pour aider le client à comprendre avant de laisser ses coordonnées.
 
-Stores can be published using a Madabina subdomain:
+**Plus de contrôle.** Les marchands disposent d’une vue structurée sur leurs boutiques, produits, commandes et statuts.
 
-```text
-your-brand.madabina.com
-```
+**Plus de souplesse.** Plusieurs marques et campagnes peuvent être gérées séparément sans mélanger les opérations.
 
-The storefront experience is focused on clarity, trust, mobile usability, and conversion.
+### Parcours marchand
 
-### Conversion-Focused Product Pages
+1. Créer un compte marchand.
+2. Lancer une boutique et ajouter ses produits.
+3. Partager une page produit ou l’adresse de la boutique.
+4. Recevoir les demandes COD.
+5. Confirmer, organiser et suivre les commandes depuis le panel marchand.
 
-Turn products and offers into focused landing pages with:
+### Ressources internes
 
-- Clear product positioning
-- Pricing and offer information
-- Product benefits
-- Conversion-oriented layouts
-- Mobile-first ordering
-- Direct Cash on Delivery calls to action
+- [README de l’application web](../../web-app/README.md) — installation, fonctionnalités et démarrage local.
+- [Index de la documentation technique](../../web-app/docs/README.md) — architecture, API, déploiement, localisation et dépannage.
+- [Architecture](../../web-app/docs/01-ARCHITECTURE.md) · [API publique](../../web-app/docs/03-API.md) · [Localisation](../../web-app/docs/09-LOCALIZATION.md).
+- [Identité de marque](../../web-app/docs/11-BRAND-IDENTITY.md) · [Design visuel](../../web-app/docs/12-VISUAL-DESIGN.md).
+- [Brand kit Madabina](../brand/README.md) — logos, couleurs, typographie et règles d’utilisation.
+- [Historique des releases](../releases/README.md) — versions publiées et changements principaux.
+- [Service MCP](../../mcp/README.md) — endpoint et documentation du service MCP Madabina.
+- [Madabina ERP](../../erp/README.md) — surcouche de marque pour ERPNext.
 
-### Frictionless COD Orders
+### Liens
 
-Customers can submit the information required to process and confirm an order:
-
-- Full name
-- Phone number
-- Wilaya
-- Commune
-- Delivery address
-
-The merchant receives structured order information ready for confirmation and fulfillment.
-
-### Merchant Panel
-
-Madabina centralizes merchant operations in one place.
-
-The platform is designed to help merchants:
-
-- Manage stores
-- Organize offers
-- Receive customer orders
-- Track order statuses
-- Separate brands and campaigns
-- Maintain a clearer view of their sales operations
-
-### Multi-Store Commerce
-
-A merchant can operate multiple stores for different:
-
-- Brands
-- Niches
-- Products
-- Advertising campaigns
-- Market tests
-
-This makes it easier to test offers independently, identify what works, and scale successful operations without mixing workflows.
+- [Découvrir Madabina](https://madabina.com)
+- [Créer une boutique](https://madabina.com/merchant/register)
+- [Ouvrir le panel marchand](https://madabina.com/merchant/login)
+- [Voir la boutique de démonstration](https://madabina.com/boutiques/madabina-demo)
 
 ---
 
-## Our Mission
+## English
 
-### Make COD e-commerce more accessible
+### Madabina: e-commerce infrastructure for Algerian online sellers
 
-We want ambitious merchants to be able to build a professional digital presence without depending on a technical team for every launch.
+Madabina helps brand owners, e-commerce entrepreneurs and **Cash on Delivery (COD)** sellers in Algeria move from a social media page or a product idea to a professional online store that is easy to share and built to reassure customers before phone confirmation.
 
-### Help brands present better offers
+Merchants can use Madabina to:
 
-Strong e-commerce starts with a clear offer.
+- launch a public store with a clear, shareable address;
+- present products and offers through focused sales pages;
+- receive COD orders with customer name, phone, wilaya, commune and address;
+- follow requests and order statuses from the merchant panel;
+- manage multiple stores for separate brands, niches and campaigns;
+- sell through French, English and Arabic storefront experiences.
 
-Madabina focuses on making the important information visible at the right moment: product, value proposition, price, benefits, trust, and order action.
+Madabina is built around the realities of e-commerce in Algeria: mobile-first storefronts, COD-native ordering and simple merchant workflows without heavy technical setup.
 
-### Give merchants more operational control
+### What Madabina focuses on
 
-Instead of managing sales through scattered messages, social posts, spreadsheets, and improvised forms, merchants can organize their stores and orders through a dedicated platform.
+- **Professional storefronts:** clear offers, product pages and brand identity.
+- **Customer reassurance:** readable information and a structured COD order form.
+- **Merchant operations:** organized stores, products, requests and statuses.
+- **Multi-store growth:** separate brands and campaigns while keeping operations visible.
 
----
+### Internal resources
 
-## Built for the Algerian E-commerce Ecosystem
+- [Web application README](../../web-app/README.md) — setup, features and local development.
+- [Technical documentation index](../../web-app/docs/README.md) — architecture, API, deployment, localization and troubleshooting.
+- [Brand identity](../../web-app/docs/11-BRAND-IDENTITY.md) · [Visual design](../../web-app/docs/12-VISUAL-DESIGN.md).
+- [Madabina brand kit](../brand/README.md) — logos, colors, typography and usage rules.
+- [Release history](../releases/README.md) — published versions and changes.
+- [MCP service](../../mcp/README.md) — Madabina MCP endpoint documentation.
+- [Madabina ERP](../../erp/README.md) — ERPNext white-label branding layer.
 
-Madabina is designed around the realities of e-commerce in Algeria, where **Cash on Delivery (COD)** remains a major part of online retail.
+### Links
 
-The platform focuses on workflows that matter to local merchants:
-
-- COD-first checkout
-- Algerian location information
-- Phone-based order confirmation
-- Mobile-first customer journeys
-- Fast storefront creation
-- Multi-brand operations
-- Simple merchant workflows
-
----
-
-## Platform
-
-```text
-                           +----------------------+
-                           �      Madabina        �
-                           �   Commerce Platform  �
-                           +----------------------+
-                                      �
-                  +-------------------+-------------------+
-                  �                   �                   �
-                  ?                   ?                   ?
-        +-----------------+ +-----------------+ +-----------------+
-        � Public Stores   � � Merchant Panel  � � Platform        �
-        � & Product Pages � � & Operations    � � & Services      �
-        +-----------------+ +-----------------+ +-----------------+
-                 �                   �                   �
-                 +-------------------+-------------------+
-                                     ?
-                           +----------------------+
-                           � Orders, Stores,      �
-                           � Offers & Commerce    �
-                           � Data                 �
-                           +----------------------+
-```
-
-The Madabina GitHub organization is the home for the software, tooling, integrations, infrastructure, and experiments that support this ecosystem.
+- [Official website](https://madabina.com)
+- [Create a store](https://madabina.com/merchant/register)
+- [Open the merchant panel](https://madabina.com/merchant/login)
+- [View the demo store](https://madabina.com/boutiques/madabina-demo)
 
 ---
 
-## Engineering Principles
+## العربية
 
-We build Madabina around a few practical principles.
+### مدابينا: منصة التجارة الإلكترونية للبائعين عبر الإنترنت في الجزائر
 
-**Merchant-first**  
-Technology should simplify commerce operations, not create additional work.
+تساعد مدابينا أصحاب العلامات التجارية ورواد التجارة الإلكترونية والبائعين بنظام **الدفع عند الاستلام (COD)** في الجزائر على الانتقال من صفحة على وسائل التواصل الاجتماعي أو من منتج واحد إلى متجر إلكتروني احترافي، سهل المشاركة ومصمم لبناء ثقة العميل قبل تأكيد الطلب عبر الهاتف.
 
-**COD-native**  
-Cash on Delivery is treated as a core commerce workflow rather than an afterthought.
+يمكن للتاجر من خلال مدابينا:
 
-**Simple by default**  
-The platform should remain approachable for merchants without technical experience.
+- إنشاء متجر عام بعنوان واضح وسهل المشاركة؛
+- عرض المنتجات والعروض داخل صفحات بيع منظمة؛
+- استقبال طلبات الدفع عند الاستلام مع الاسم والهاتف والولاية والبلدية والعنوان؛
+- متابعة الطلبات وحالاتها من لوحة التاجر؛
+- إدارة عدة متاجر لفصل العلامات التجارية والحملات والعروض؛
+- استخدام تجربة متعددة اللغات بالفرنسية والإنجليزية والعربية.
 
-**Conversion focused**  
-Public storefronts should help customers understand the offer and complete an order with minimal friction.
+تركز مدابينا على واقع التجارة الإلكترونية في الجزائر: تجربة مناسبة للهاتف، طلبات COD، ومسار بسيط للتاجر دون إعداد تقني معقد.
 
-**Multi-tenant by design**  
-Brands, stores, offers, and merchant operations should remain clearly separated and manageable as the platform grows.
+### ما الذي تقدمه مدابينا؟
 
-**Automation ready**  
-Commerce workflows should be structured so they can progressively connect with notifications, integrations, analytics, logistics, and automation services.
+- **متجر احترافي:** عرض واضح للعلامة التجارية والمنتجات والعروض.
+- **ثقة أكبر للعميل:** معلومات مفهومة ونموذج طلب منظم.
+- **إدارة أفضل للتاجر:** تنظيم المتاجر والمنتجات والطلبات والحالات.
+- **نمو متعدد المتاجر:** فصل العلامات والحملات مع الحفاظ على رؤية واضحة للعمليات.
 
-**Built to scale**  
-The architecture and product model should support growth from a single product offer to multiple stores and brands.
+### الموارد الداخلية
 
----
+- [README تطبيق الويب](../../web-app/README.md) — التثبيت والميزات والتشغيل المحلي.
+- [فهرس التوثيق التقني](../../web-app/docs/README.md) — البنية وواجهة API والنشر واللغات وحل المشاكل.
+- [هوية العلامة التجارية](../../web-app/docs/11-BRAND-IDENTITY.md) · [التصميم المرئي](../../web-app/docs/12-VISUAL-DESIGN.md).
+- [دليل علامة مدابينا](../brand/README.md) — الشعارات والألوان والخطوط وقواعد الاستخدام.
+- [سجل الإصدارات](../releases/README.md) — الإصدارات المنشورة والتغييرات.
+- [خدمة MCP](../../mcp/README.md) — توثيق خدمة MCP الخاصة بمدابينا.
+- [Madabina ERP](../../erp/README.md) — طبقة العلامة التجارية لـ ERPNext.
 
-## Repositories
+### الروابط
 
-Our GitHub organization contains projects related to the Madabina ecosystem.
-
-Depending on the repository, you may find work related to:
-
-- Core SaaS platform
-- Merchant-facing applications
-- Public storefronts
-- Internal administration
-- E-commerce APIs
-- Automation workflows
-- Third-party integrations
-- Infrastructure and deployment
-- Developer tooling
-- Documentation
-- Experiments and prototypes
-
-Some repositories may remain private while products and infrastructure are under active development.
-
----
-
-## Product Direction
-
-Madabina is evolving toward a broader operating platform for COD e-commerce.
-
-Areas of development may include:
-
-- Store and offer management
-- Order management workflows
-- Customer and order confirmation tools
-- Analytics and conversion insights
-- Marketing integrations
-- Messaging and notifications
-- Delivery and logistics integrations
-- Workflow automation
-- APIs and webhooks
-- Multi-user merchant teams
-- Catalog and inventory capabilities
-- AI-assisted commerce tools
-
-Our focus is not to add complexity for its own sake. Every feature should help merchants **launch faster, operate more efficiently, or sell with greater control**.
-
----
-
-## Who Madabina Is For
-
-Madabina is designed for:
-
-- E-commerce entrepreneurs
-- Brand owners
-- COD sellers
-- Social-commerce merchants
-- Product testers
-- Performance marketers
-- Small and growing online businesses
-- Teams managing several brands or offers
-
-Whether a merchant starts with one winning product or manages several brands, Madabina aims to provide a cleaner path from offer creation to order management.
-
----
-
-## Open Source & Collaboration
-
-Most of Madabina's core commercial platform may be developed privately, but this organization can also host public tools, SDKs, integrations, examples, and documentation useful to developers and the wider e-commerce ecosystem.
-
-For public repositories, please check the repository-specific:
-
-- `README.md`
-- `CONTRIBUTING.md`
-- `LICENSE`
-- Issue tracker
-- Security policy
-
-before contributing.
-
----
-
-## Security
-
-If you discover a security vulnerability in a Madabina service or repository, please avoid publishing sensitive details in a public issue.
-
-Contact us privately at:
-
-**contact@madabina.com**
-
----
-
-## Links
-
-- **Website:** https://madabina.com
-- **Merchant Panel:** https://madabina.com/merchant
-- **GitHub:** https://github.com/madabina-com
-- **Email:** contact@madabina.com
+- [الموقع الرسمي](https://madabina.com)
+- [إنشاء متجر](https://madabina.com/merchant/register)
+- [فتح لوحة التاجر](https://madabina.com/merchant/login)
+- [مشاهدة المتجر التجريبي](https://madabina.com/boutiques/madabina-demo)
 
 ---
 
 <p align="center">
   <strong>Madabina</strong><br>
-  Building better infrastructure for COD e-commerce in Algeria.
+  Infrastructure e-commerce COD pour les marques et vendeurs algériens.
 </p>
 
 <p align="center">
-  � 2026 Madabina
+  <a href="mailto:contact@madabina.com">contact@madabina.com</a> · 2026
 </p>
