@@ -2,6 +2,7 @@
 
 Version history for the Madabina application.
 
+- [Madabina v2.3.2](./v2.3.2.md)
 - [Madabina v2.3.1](./v2.3.1.md)
 - [Madabina v2.3.0](./v2.3.0.md)
 - [Madabina v2.2.3](./v2.2.3.md)
